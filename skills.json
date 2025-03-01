@@ -64,10 +64,6 @@
     "name": "MongoDB",
     "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
   },
-  {
-    "name": "MySQL",
-    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-  },
 
   {
     "name": "Netlify",
