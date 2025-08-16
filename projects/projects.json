@@ -1,7 +1,7 @@
 [
   {
-    "name": "Ranker Guide-Learning Platform",
-    "desc": "I built this Learning Platform for one client using Mern stack.",
+    "name": "Air Quality Monitoring",
+    "desc": "Check current AQI, pollutants, and get insights into city-level air quality.",
     "image": "project4",
     "category": "mern",
     "links": {
@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Helium 10 CLONE",
-    "desc": "I developed a clone of Helium 10 using react and tailwindCSS",
+    "name": "Trade Brains Clone",
+    "desc": "Search stock and get real-time prices with interactive charts to help you trade smarter.",
     "image": "project7",
     "category": "mern",
     "links": {
-      "view": "https://product-x.vercel.app/login",
-      "code": "https://github.com/mdsamir8863/PRODUCT-X"
+      "view": "https://trade-brains-assignment-xi.vercel.app/",
+      "code": "https://github.com/mdsamir8863/trade-brains-assignment"
     }
   },
 
