@@ -1,5 +1,15 @@
 [
   {
+    "name": "Just2kart: Multi-Vendor Platform",
+    "desc": "Connecting merchants across India, from the heart of Patna to every major city. Experience guaranteed speed, impenetrable security, and effortless service.",
+    "image": "just2kart",
+    "category": "mern",
+    "links": {
+      "view": "https://j2k.vercel.app/",
+      "code": "https://github.com/mdsamir8863?tab=repositories"
+    }
+  },
+  {
     "name": "Air Quality Monitoring",
     "desc": "Check current AQI, pollutants, and get insights into city-level air quality.",
     "image": "project4",
