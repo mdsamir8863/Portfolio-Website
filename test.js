@@ -1,11 +1,11 @@
 //! ✅ Example Debounce function
-// function debounce(func, delay) {
-//   let timer;
-//   return function (...args) {
-//     clearTimeout(timer);
-//     timer = setTimeout(() => func.apply(this, args), delay);
-//   };
-// }
+function debounce(func, delay) {
+  let timer;
+  return function (...args) {
+    clearTimeout(timer);
+    timer = setTimeout(() => func.apply(this, args), delay);
+  };
+}
 
 // // Example usage: API call on input change
 // const handleInput = debounce((value) => {
@@ -28,9 +28,7 @@ const handleInput = debounceMethod((value) => {
 
 }, 500);
 
-// const handleInput = debounceMathed((value) => {
-//     console.log("API call with:", value);
-//   }, 500);
+
 handleInput("Sa");
 handleInput("Sam");
 handleInput("Sami");
@@ -47,8 +45,6 @@ function throttle(func, limit) {
       }
     };
   }
-
-
 
   
   const handleScroll = throttle(() => {

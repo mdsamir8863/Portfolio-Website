@@ -246,7 +246,7 @@ header .navbar ul li a:hover {
   box-shadow: 0 2px 8px 2px #ff7b00;
   overflow: hidden;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -255,11 +255,11 @@ header .navbar ul li a:hover {
 
 .home .image img {
   width: 34rem;
-  height: 36rem;
+  height: 40rem;
   /* height: 100%; */
   /* margin-left: 6rem; */
-  border-radius: 50%;
-  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); */
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
 
