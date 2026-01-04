@@ -391,6 +391,10 @@ header .navbar ul li a:hover {
   width: 5rem;
 }
 
+
+/* shows kills css start */
+
+/* shows kills css end */
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .home .btn {
@@ -492,7 +496,7 @@ header .navbar ul li a:hover {
 }
 
 .resumebtn {
-  margin-top: 6rem;
+  margin-top: 2.5rem;
 }
 
 .resumebtn .btn {

@@ -1,11 +1,21 @@
 [
   {
+    "name": "Hospital Management System",
+    "desc": "Hospital Management System with patient login, doctor appointment booking, online payments, and dedicated admin and doctor dashboards with secure role-based access.",
+    "image": "hms",
+    "category": "mern",
+    "links": {
+      "view": "https://hms-frontend-pearl.vercel.app/",
+      "code": "https://github.com/mdsamir8863/HMS-Frontend"
+    }
+  },
+  {
     "name": "Just2kart: Multi-Vendor Platform",
     "desc": "Connecting merchants across India, from the heart of Patna to every major city. Experience guaranteed speed, impenetrable security, and effortless service.",
     "image": "just2kart",
     "category": "mern",
     "links": {
-      "view": "https://j2k.vercel.app/",
+      "view": "https://just2-kart.vercel.app",
       "code": "https://github.com/mdsamir8863?tab=repositories"
     }
   },
@@ -15,8 +25,8 @@
     "image": "project4",
     "category": "mern",
     "links": {
-      "view": "https://rankerguide.in/home",
-      "code": "https://github.com/mdsamir8863/rg-web"
+      "view": "https://real-time-air-quality-prediction.vercel.app/",
+      "code": "https://github.com/mdsamir8863/Real-Time-Air-Quality-Prediction"
     }
   },
   {
